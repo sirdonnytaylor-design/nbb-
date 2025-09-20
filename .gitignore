@@ -1,0 +1,53 @@
+# Build directories
+build/
+*.iso
+
+# Temporary files
+tmp/
+.tmp/
+*.tmp
+*.temp
+
+# Log files
+*.log
+*.out
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Archive files
+*.tar
+*.tar.gz
+*.tar.xz
+*.zip
+*.rar
+
+# Cache directories
+cache/
+.cache/
+
+# Package manager artifacts
+node_modules/
+*.deb
+*.rpm
+
+# Test files
+test_*
+*_test
+
+# Personal configuration
+local_config.sh
+private_config.sh
