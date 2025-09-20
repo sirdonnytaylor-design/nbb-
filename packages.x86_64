@@ -1,0 +1,119 @@
+# Base Arch Linux packages
+base
+linux
+linux-firmware
+linux-headers
+archiso
+
+# Bootloader and tools
+grub
+efibootmgr
+os-prober
+mtools
+dosfstools
+memtest86+
+
+# Network and system utilities
+networkmanager
+network-manager-applet
+wireless_tools
+wpa_supplicant
+dialog
+pacman-contrib
+reflector
+rsync
+htop
+neofetch
+git
+wget
+curl
+nano
+vim
+sudo
+openssh
+
+# Audio
+pipewire
+pipewire-alsa
+pipewire-pulse
+pipewire-jack
+alsa-utils
+pavucontrol
+
+# Bluetooth
+bluez
+bluez-utils
+
+# Hyprland and Wayland
+hyprland
+waybar
+wofi
+mako
+grim
+slurp
+wl-clipboard
+swaylock
+swayidle
+xdg-desktop-portal-hyprland
+polkit-kde-agent
+xorg-xwayland
+
+# KDE Plasma Desktop
+plasma-meta
+plasma-wayland-session
+kde-applications-meta
+konsole
+dolphin
+kate
+gwenview
+spectacle
+ark
+kcalc
+kwrite
+okular
+sddm
+
+# Display and graphics
+mesa
+xf86-video-intel
+xf86-video-amdgpu
+xf86-video-nouveau
+vulkan-intel
+vulkan-radeon
+nvidia-open
+
+# Fonts
+ttf-dejavu
+ttf-liberation
+noto-fonts
+noto-fonts-emoji
+ttf-roboto
+ttf-opensans
+
+# Additional utilities
+firefox
+vlc
+gimp
+libreoffice-fresh
+thunderbird
+
+# Development tools
+python
+nodejs
+npm
+
+# File systems
+ntfs-3g
+exfat-utils
+
+# Compression
+zip
+unzip
+p7zip
+
+# System tools
+tree
+which
+lsof
+usbutils
+dmidecode
